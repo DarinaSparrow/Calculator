@@ -1,6 +1,5 @@
+//Выродова Елизавета
 #pragma once
-
-void Combinatorics();
 
 struct Elements
 {
@@ -8,6 +7,7 @@ struct Elements
 	int element_2;
 };
 
+void Combinatorics();
 void Place_with_repet();
 void Place_without_repet();
 void Combin_with_repet();
